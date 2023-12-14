@@ -1,0 +1,15 @@
+.center{
+    text-align: center;
+}
+
+
+body{
+    background-color: lightslategray;
+}
+
+a:link {
+    color:white;
+    background-color: transparent;
+    text-decoration: none;
+    
+}
